@@ -12,3 +12,8 @@ This is my short meaningful commit message stating I added 6 lines to this file 
 ``` python
 print('Hello World')
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+      
